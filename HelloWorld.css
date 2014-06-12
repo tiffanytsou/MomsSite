@@ -3,9 +3,10 @@ selector {
 }
 h1 {
     font-family: Times;
+    text-align: center;
     background-color: #6BEC3B;
     height: 200px;
-    width: 700px;
+    width: 500px;
 }
 
 
