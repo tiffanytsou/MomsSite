@@ -11,8 +11,8 @@ h1 {
     font-size: 75px;
     color: white;
     text-align: center;
-    background-color: #007C21; height: 80px; width: 500px;
-    border: 10px solid white;
+    background-color: #007C21; height: 80px; width: 500px; background-position: center;
+    border: 7px solid white;
 }
 img {
     display: block;
