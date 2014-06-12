@@ -6,12 +6,12 @@ body {
     font-family: Courier;
     font-size: 20px;
 }
-h1.center {
+h1 {
     font-family: Courier;
     font-size: 75px;
     color: white;
     text-align: center;
-    background-color: #007C21;height: 100px; width: 600px;
+    background-color: #007C21; height: 100px; width: 600px;
 }
 img {
     display: block;
