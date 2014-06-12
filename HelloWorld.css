@@ -1,28 +1,25 @@
+selector {
+    property: value;
+}
 body {
     background-color: #38DF64;
 }
-h1.center {
+h1 {
     font-family: Courier;
     color: white;
-    background-color: #6BEC3B;text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    height: 50px;
-    width: 400px;
+    text-align: center;
 }
-img.center {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 450px;
     width: 450px;
 }
-h2.center {
+h2 {
     font-family: Courier;
     color: white;
-    background-color: #6BEC38;text-align: center;
-    height: 25px;
-    width: 250px;
+    text-align: center;
 }
 img {
     height: 1000px;
@@ -36,23 +33,20 @@ img {
     height: 500px;
     width: 800px;
 }
-h2.center {
+h2 {
     font-family: Courier;
     color: white;
-    background-color: #6BEC38;text-align: center;
-    height: 25px;
-    width: 250px;
+    text-align: center;
 }
 img {
     height: 500px;
     width: 800px;
 }
-h3.center {
+h3 {
     font-family: Courier;
     color: white;
-    background-color: #6BEC38;text-align: center;
-    height: 25px;
-    width: 250px;
+    text-align: center;
+  
 }
 img {
     height: 200px;
