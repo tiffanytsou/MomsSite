@@ -1,11 +1,26 @@
-selector {
-    property:value;
+body {
+    background-color: #38DF64;
 }
 h1 {
     font-family: Times;
-    background-color: #6BEC3B;text-align:center;
-    height: 200px;
-    width: 500px;
+    color: white;
+    background-color: #6BEC3B;text-align: center;
+    height: 100px;
+    width: 400px;
+}
+h2 {
+    font-family: Courier;
+    color: white;
+    background-color: #6BEC38;text-align: center;
+    height: 100px;
+    width: 250px;
+}
+h3 {
+    font-family: Courier;
+    color: white;
+    background-color: #6BEC38;text-align: center;
+    height: 100px;
+    width: 250px;
 }
 
 
