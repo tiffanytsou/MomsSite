@@ -3,12 +3,15 @@ selector {
 }
 body {
     background-color: #38DF64;
+    font-family: Courier;
+    font-size: 25px;
 }
 h1 {
     font-family: Courier;
     font-size: 75px;
     color: white;
     text-align: center;
+    background-color: #007C21;height: 100px; width: 300px;
 }
 img {
     display: block;
