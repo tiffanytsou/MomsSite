@@ -4,14 +4,14 @@ selector {
 body {
     background-color: #38DF64;
     font-family: Courier;
-    font-size: 25px;
+    font-size: 20px;
 }
 h1 {
     font-family: Courier;
     font-size: 75px;
     color: white;
     text-align: center;
-    background-color: #007C21;height: 100px; width: 300px;
+    background-color: #007C21;height: 200px; width: 800px;
 }
 img {
     display: block;
