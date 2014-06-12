@@ -1,18 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Times;
+    background-color: #00CC00;
 }
 h1 {
-    color: #9232e8;
+    color: black;
 }
-div {
-    border: 3px dashed #f59aff;
-    background-color: #0c8484;
-    color: #ffffff;
-    width: 70%;
-    box-sizing: border-box;
-    float: left;
-    padding: 5px 3px 30px 10px;
-}
-.sidebar {
-    width: 30%;
-}
+
+
