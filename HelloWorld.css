@@ -1,9 +1,11 @@
-body {
-    font-family: Times;
-    background-color: #6BEC3B;
+selector {
+    property:value;
 }
 h1 {
-    color: black;
+    font-family: Times;
+    background-color: #6BEC3B;
+    height: 200px;
+    width: 700px;
 }
 
 
