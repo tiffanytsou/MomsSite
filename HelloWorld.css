@@ -1,6 +1,9 @@
 selector {
     property: value;
 }
+* {
+    border: 5px solid black;
+}
 body {
     background-color: #38DF64;
     font-family: Courier;
