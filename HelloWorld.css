@@ -12,12 +12,9 @@ h1 {
     color: white;
     text-align: center;
     background-color: #007C21; height: 80px; width: 500px; 
-    background-position: center;
-    border: 7px solid black;
-}
-h1.blocktext {
     margin-left: auto;
     margin-right: auto;
+    border: 7px solid black;
 }
 img {
     display: block;
