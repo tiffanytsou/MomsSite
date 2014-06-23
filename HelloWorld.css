@@ -6,6 +6,10 @@ body {
     font-family: Verdana;
     font-size: 20px;
 }
+p {
+    background-color: #67AA2A; width: 800px;
+    border: 5px solid white;
+}
 h1 {
     font-family: Courier;
     font-size: 75px;
