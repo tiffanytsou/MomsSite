@@ -8,10 +8,10 @@ body {
 }
 p {
     color: black;
-    background-color: #73AF59; width: 1000px;
+    background-color: #60BB22; width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    border: 5px solid black;
+    border: 3px solid black;
 }
 h1 {
     font-family: Courier;
