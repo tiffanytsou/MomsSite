@@ -7,7 +7,9 @@ body {
     font-size: 20px;
 }
 p {
-    background-color: #67AA2A; width: 800px;
+    background-color: #95D55D; width: 800px;
+    margin-left: auto;
+    margin-right: auto;
     border: 5px solid white;
 }
 h1 {
