@@ -16,7 +16,3 @@ else i = 0;
 setTimeout("swapImage()",3000); 
 } 
 window.onload=swapImage; 
-
-
-var tabLinks = new Array();
-var contentDivs = new Array();
